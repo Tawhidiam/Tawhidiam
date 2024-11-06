@@ -14,7 +14,5 @@ Skills: REACT / JS / TS / HTML / CSS / PYTHON / DJANGO
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tawhidiam&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Tawhidiam/contributions?format=svg&private=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/Tawhidiam)  
 
